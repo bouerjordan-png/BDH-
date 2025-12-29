@@ -1,4 +1,6 @@
-bdh-house.fr/
+npm i @vercel/speed-insights
+
+mon-site/
 ├── index.html
 └── style.css
 
@@ -15,3 +17,15 @@ bdh-house.fr/
   <p>Ce site est maintenant en ligne avec Vercel.</p>
 </body>
 </html>
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h1 {
+  color: #0070f3;
+}
